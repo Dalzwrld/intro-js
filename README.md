@@ -33,9 +33,11 @@ Variables are essential in knowing and sorting out various types of data, which 
 
 Always use const unless you need to have data that changes, then you can use let.
 
+
 <!-- Naming convention -->
 
 We use camelCase for easier and better readability. It also matches the standard of JavaScript since it's also in camelCase.
+
 
 <!-- Rules for working with variables -->
 
