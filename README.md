@@ -7,7 +7,7 @@ console.log allows you to view your execution on your browser.
 JS executes EVERYTHING from top to bottom.
 
 
-<!-- Data Types -->
+<!-- Definitions -->
 
 Value - A piece of data that can be stored in a variable or used in an expression. It represents a specific piece of info that your program works with.
 
