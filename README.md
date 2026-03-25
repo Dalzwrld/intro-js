@@ -16,7 +16,7 @@ Variable - A named storage place for data. Giving variables names makes it easie
 Data type - A kind of value that can be held in a variable that determines how data is stored in the memory and how operations are performed on it.
 
 
-<!-- Variables -->
+<!-- Keywords -->
 
 There are 3 techniques with 3 keywords:
 
